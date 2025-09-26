@@ -9,3 +9,12 @@ h1 {
 #tiktok {
     background-color: darkblue;
 }
+
+a {
+    font-size: 2rem;
+}
+
+a:visited  {
+    font-weight: bold;
+    color: hotpink;
+}
